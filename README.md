@@ -16,7 +16,7 @@ Esta es una aplicación web que permite resumir texto en los idiomas español e 
 ## Instalación
 
 1. Clona el repositorio:
-2. Crea un entorno virtual y actívalo: python -m venv venv - 
+2. Crea un entorno virtual y actívalo:` python -m venv .venv `
 3. Activacion entorno virtual en Windows usa `venv\Scripts\activate`
 4. pip install -r requirements.txt
 5. En el archivo .env añade tu clave de API de OpenAI API_KEY=tu-clave-api-de-openai
